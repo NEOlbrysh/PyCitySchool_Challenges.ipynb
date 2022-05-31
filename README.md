@@ -15,7 +15,7 @@ When the Thomas High School 9th grade reading and math scores are removed from t
   
 - ### How is the school summary affected?
 
-The School Summary DataFrame changes Thomas High School itself since we are still using the total number of students in each schools to calculate the percentage of students that pass math, reading, and overall percentage at each school. These percentages will drop for Thomas High School since a quarter of the students will have no score, or a non-passing score, yet they will be included in the total number of students.
+The School Summary DataFrame changes Thomas High School itself since we are still using the total number of students in each schools to calculate the percentage of students that pass math, reading, and overall percentage at each school. These percentages dropped for Thomas High School since a quarter of the students will have no score, or a non-passing score, yet they will be included in the total number of students.
 	  
 - ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -60,7 +60,9 @@ Thomas High School is a Charter School. We see a 4 point drop in the percentage 
 
 ![2022-05-31 (48)](https://user-images.githubusercontent.com/103701561/171262155-5620a750-3c51-4621-acfc-f401e1a0ea21.png)
 
+## Summary
 
+The School Summary DataFrame changes Thomas High School itself since we are still using the total number of students in each schools to calculate the percentage of students that pass math, reading, and overall percentage at each school. These percentages dropped for Thomas High School since a quarter of the students will have no score, or a non-passing score. Thomas High School drops out of the Top 5 and into the 8th slot with an overall passing percentage of 60.1. This drop is to be expected since the 461 ninth grade students account for 28% of total students at Thomas High School. Thomas High School is categorized as a Medium sized school it has 1,635 students, we see a decrease of 6 points in the percentage of students passing math, reading, and both overall percentage. Thomas High School is a Charter School, we see a 4 point drop in the percentage of students passing math, reading, and overall percentage without affecting the District Schools.
 
 
 
