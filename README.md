@@ -10,7 +10,7 @@ Use Python and the Pandas library to analyze school district data and showcase t
 When the Thomas High School 9th grade reading and math scores are removed from the dataset, the total schools and total students numbers were not affected. We still use the same total number of students (39,170) to report overall averages by district. The average math score decreases from 79.0 to 78.9, but the average reading score remains the same (81.9). The percentage of students passing math, reading, and overall percentage is reduced by 1%. This makes sense because there are 461 ninth grade students at Thomas High School, which is roughly 1.1% of the total 39,170 students in the district, it is safe to say that the overall district summary was not largely impacted.
 
 
-
+![2022-05-31 (46)](https://user-images.githubusercontent.com/103701561/171259771-23cdfbdd-3e7f-4e60-a76c-98df7bac0c55.png)
 
   
 - How is the school summary affected?
@@ -20,6 +20,13 @@ The School Summary DataFrame changes Thomas High School itself since we are stil
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Using the original data set with the corrupted scores puts Thomas High School in the Top 5 schools in the district. Specifically, second in the district with an overall passing percentage of 90.9. However, when the corrupt 9th grade scores are removed from the dataset, Thomas High School drops out of the Top 5 and into the 8th slot with an overall passing percentage of 60.1. This drop is to be expected since the 461 ninth grade students account for 28% of total students at Thomas High School. In this assignment, we were asked to simply replace the corrupt data with NaN’s.
+
+
+
+
+
+
+
 
 ### How does replacing the ninth-grade scores affect the following:
 
