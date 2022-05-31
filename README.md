@@ -58,6 +58,8 @@ As expected, the math and reading scores by grade for all other schools are not 
 Thomas High School is a Charter School. We see a 4 point drop in the percentage of students passing math, reading, and overall percentage without affecting the District Schools.
 
 
+![2022-05-31 (48)](https://user-images.githubusercontent.com/103701561/171262155-5620a750-3c51-4621-acfc-f401e1a0ea21.png)
+
 
 
 
