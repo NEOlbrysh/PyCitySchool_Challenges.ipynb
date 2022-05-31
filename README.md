@@ -1,4 +1,4 @@
-# School_District_Analysis
+# PyCitySchools_Challenge.ipynb
 
 ##	Overview of the school district analysis: Explain the purpose of this analysis.
 Use Python and the Pandas library to analyze school district data and showcase trends in school performance. Open Jupyter Notebook files from local directories using a development environment, read an external CSV file into a DataFrame. Format a DataFrame column, determine data types of row values in a DataFrame, and retrieve data from specific columns of a DataFrame. Merge, filter, slice, and sort a DataFrame, apply the groupby() function to a DataFrame. Lastly perform mathematical calculations on columns of a DataFrame or Series.
