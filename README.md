@@ -21,7 +21,14 @@ The School Summary DataFrame changes Thomas High School itself since we are stil
 
 Using the original data set with the corrupted scores puts Thomas High School in the Top 5 schools in the district. Specifically, second in the district with an overall passing percentage of 90.9. However, when the corrupt 9th grade scores are removed from the dataset, Thomas High School drops out of the Top 5 and into the 8th slot with an overall passing percentage of 60.1. This drop is to be expected since the 461 ninth grade students account for 28% of total students at Thomas High School. In this assignment, we were asked to simply replace the corrupt data with NaN’s.
 
+### Top 5 Schools:
 
+![2022-05-31 (37)](https://user-images.githubusercontent.com/103701561/171260994-9ec3b24c-81ff-4e8d-8190-3bdabc14b04b.png)
+
+
+### Bottom 5 Schools:
+
+![2022-05-31 (38)](https://user-images.githubusercontent.com/103701561/171261090-743ac9b1-c5cb-466c-a265-541890c54a90.png)
 
 
 
