@@ -49,6 +49,10 @@ As expected, the math and reading scores by grade for all other schools are not 
 
  Thomas High School has 1,635 students, so it is categorized as a Medium sized school. Here we see a decrease of 6 points in the percentage of students passing math, reading, and both overall percentage.
  
+ ![2022-05-31 (47)](https://user-images.githubusercontent.com/103701561/171261805-5108685e-beea-4f29-a944-9ade27088d80.png)
+ 
+ 
+ 
  -	Scores by school type:
 
 Thomas High School is a Charter School. We see a 4 point drop in the percentage of students passing math, reading, and overall percentage without affecting the District Schools.
