@@ -7,7 +7,11 @@ Use Python and the Pandas library to analyze school district data and showcase t
 
 -	How is the district summary affected?
 
-	When the Thomas High School 9th grade reading and math scores are removed from the dataset, the total schools and total students numbers were not affected. We still use the same total number of students (39,170) to report overall averages by district. The average math score decreases from 79.0 to 78.9, but the average reading score remains the same (81.9). The percentage of students passing math, reading, and overall percentage is reduced by 1%. This makes sense because there are 461 ninth grade students at Thomas High School, which is roughly 1.1% of the total 39,170 students in the district, it is safe to say that the overall district summary was not largely impacted.
+When the Thomas High School 9th grade reading and math scores are removed from the dataset, the total schools and total students numbers were not affected. We still use the same total number of students (39,170) to report overall averages by district. The average math score decreases from 79.0 to 78.9, but the average reading score remains the same (81.9). The percentage of students passing math, reading, and overall percentage is reduced by 1%. This makes sense because there are 461 ninth grade students at Thomas High School, which is roughly 1.1% of the total 39,170 students in the district, it is safe to say that the overall district summary was not largely impacted.
+
+
+
+
   
 - How is the school summary affected?
 
